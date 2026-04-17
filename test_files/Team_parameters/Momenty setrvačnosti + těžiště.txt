@@ -1,0 +1,209 @@
+
+
+ Center of Mass
+Xcbar, Ycbar, Zcbar   =  108.969803348 mm,    0 mm,  198.200138505 mm
+
+
+Přední ráfek + pneumatika
+
+	Center of Mass
+        Xcbar, Ycbar, Zcbar   =  969.997341182 mm,  615.784721502 mm,  131.002800283 mm
+	
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 1708676.483737585 kg⋅mm², 4064485.454377971 kg⋅mm², 5542059.228022892 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 333861.077164833 kg⋅mm², 527328.582396493 kg⋅mm², 2478662.728009604 kg⋅mm²
+	
+	Matice
+	\left|\begin{matrix}1708676.483737585&-2478662.728009604&-527328.582396493\\-2478662.728009604&4064485.454377971&-333861.077164833\\-527328.582396493&-333861.077164833&5542059.228022892\\\end{matrix}\right|
+
+
+
+
+
+Zadní ráfek + pneumatika
+
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   = -605.066104080 mm,  593.290232248 mm,  130.862246421 mm
+
+	
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 1595656.398795380 kg⋅mm², 1679052.469738334 kg⋅mm², 3043888.179081751 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 321495.736688989 kg⋅mm², -328580.572876455 kg⋅mm², -1489604.446573230 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}1595656.398795380&1489604.446573230&328580.572876455\\1489604.446573230&1679052.469738334&-321495.736688989\\328580.572876455&-321495.736688989&3043888.179081751\\\end{matrix}\right|
+
+	
+
+
+Přední náboj + kotouč
+ 
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   =  969.826261831 mm,  588.035605399 mm,  129.932854306 mm
+
+
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 288098.617347958 kg⋅mm², 758963.535627498 kg⋅mm², 1017464.795553236 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 60289.781844273 kg⋅mm², 99503.930533024 kg⋅mm², 450316.234991773 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}288098.617347958&-450316.234991773&-99503.930533024\\-450316.234991773&758963.535627498&-60289.781844273\\-99503.930533024&-60289.781844273&1017464.795553236\\\end{matrix}\right|
+
+
+
+
+Zadní náboj + kotouč
+ 	
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   = -604.961546462 mm,  566.189891351 mm,  129.969263404 mm
+
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 370288.086384234 kg⋅mm², 421672.717521021 kg⋅mm², 750852.608666069 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 53570.639740662 kg⋅mm², -57347.076582541 kg⋅mm², -249499.144241823 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}370288.086384234&249499.144241823&57347.076582541\\249499.144241823&421672.717521021&-53570.639740662\\57347.076582541&-53570.639740662&750852.608666069\\\end{matrix}\right|
+
+
+
+
+Přední těhlice + brzdič
+
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   =  952.561819291 mm,  551.286982451 mm,  124.162183251 mm
+
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 331141.842090452 kg⋅mm², 952103.961054425 kg⋅mm², 1246455.601957435 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 69934.839925127 kg⋅mm², 121444.179268420 kg⋅mm², 538232.262242818 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}331141.842090452&-538232.262242818&-121444.179268420\\-538232.262242818&952103.961054425&-69934.839925127\\-121444.179268420&-69934.839925127&1246455.601957435\\\end{matrix}\right|
+
+
+
+
+
+Zadní těhlice + brzdič
+
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   = -583.191658242 mm,  529.592576081 mm,  130.033773396 mm
+	
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 224941.908313345 kg⋅mm², 270682.293496348 kg⋅mm², 466967.724996590 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 51573.549741728 kg⋅mm², -56965.749831213 kg⋅mm², -230870.688454671 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}224941.908313345&230870.688454671&56965.749831213\\230870.688454671&270682.293496348&-51573.549741728\\56965.749831213&-51573.549741728&466967.724996590\\\end{matrix}\right|
+
+
+
+
+Převodovka přední
+
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   =  969.748433456 mm,  539.880682135 mm,  128.187889075 mm
+
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 289021.554063329 kg⋅mm², 896964.643307282 kg⋅mm², 1154078.211423492 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 64779.288030094 kg⋅mm², 116382.495197053 kg⋅mm², 490159.226248466 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}289021.554063329&-490159.226248466&-116382.495197053\\-490159.226248466&896964.643307282&-64779.288030094\\-116382.495197053&-64779.288030094&1154078.211423492\\\end{matrix}\right|
+
+
+
+
+
+Převodovka zadní
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   = -604.748433450 mm,  517.365317344 mm,  128.690782727 mm
+
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 266856.256664935 kg⋅mm², 359043.436887187 kg⋅mm², 593749.406643990 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 62324.104371884 kg⋅mm², -72862.443631963 kg⋅mm², -292921.577250827 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}266856.256664935&292921.577250827&72862.443631963\\292921.577250827&359043.436887187&-62324.104371884\\72862.443631963&-62324.104371884&593749.406643990\\\end{matrix}\right|
+
+
+
+
+
+Motor přední
+
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   =  969.772756065 mm,  457.300748840 mm,  125.442544682 mm
+
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 907945.738004575 kg⋅mm², 3833760.342405423 kg⋅mm², 4606735.650421837 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 229293.334285296 kg⋅mm², 486591.713886001 kg⋅mm², 1773878.689983944 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}907945.738004575&-1773878.689983944&-486591.713886001\\-1773878.689983944&3833760.342405423&-229293.334285296\\-486591.713886001&-229293.334285296&4606735.650421837\\\end{matrix}\right|
+
+
+
+
+
+Motor zadní
+
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   = -604.003942824 mm,  434.120903766 mm,  126.364168990 mm
+
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 826225.039644166 kg⋅mm², 1532188.589028983 kg⋅mm², 2221551.435088562 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 219554.811905248 kg⋅mm², -305290.095464266 kg⋅mm², -1048832.817039010 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}826225.039644166&1048832.817039010&305290.095464266\\1048832.817039010&1532188.589028983&-219554.811905248\\305290.095464266&-219554.811905248&2221551.435088562\\\end{matrix}\right|
+
+
+
+
+
+Monokok + Aero + Zavěšení + řízení + baterka + střídač (bez 30 kg)
+
+	Center of Mass
+	Xcbar, Ycbar, Zcbar   =   81.182419606 mm,    0.822748008 mm,  222.021336109 mm
+
+	Moments of Inertia (WCS)
+	Ix, Iy, Iz            = 17950613.711603317 kg⋅mm², 67376846.747640520 kg⋅mm², 60520941.133320145 kg⋅mm²
+
+	Products of Inertia (WCS)
+	Iyz, Ixz, Ixy         = 13599.942171085 kg⋅mm², 1729745.845111301 kg⋅mm², 35435.376074653 kg⋅mm²
+
+	Matice
+	\left|\begin{matrix}17950613.711603317&-35435.376074653&-1729745.845111301\\-35435.376074653&67376846.747640520&-13599.942171085\\-1729745.845111301&-13599.942171085&60520941.133320145\\\end{matrix}\right|
+	
+	
+
+
+
+
+
+
+	
+
+
+
+
